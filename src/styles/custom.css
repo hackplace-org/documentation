@@ -5,6 +5,7 @@
 	/* accent colors */
 	--sl-color-text-accent: #00aaff;
 	--sl-color-text-invert: white;
+	--sl-icon-color: white;
 }
 
 :root .primary {
@@ -15,4 +16,5 @@
 :root[data-theme="light"] {
 	/* accent colors */
 	--sl-color-text-accent: #00aaff;
+	--sl-icon-color: black;
 }
