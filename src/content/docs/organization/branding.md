@@ -86,13 +86,13 @@ All of the official SVG images for our brand are available in our organizationâ€
 
 ## Description
 
-> We train the next generation of programmers in the Monmouth County area.
-
 :::note
 In order to keep our description consistent across all platforms, we keep track of where it is used. If you add our description to a new platform, please add it to the list below.
 :::
 
-Our official description is used in these locations:
+> We train the next generation of programmers in the Monmouth County area.
+
+This description is used in the following locations:
 
 - GitHub organization's OAuth apps (development and production)
 - GitHub organization
