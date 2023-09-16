@@ -1,0 +1,18 @@
+:root {
+	/* font family */
+	--sl-font: "Satoshi", sans-serif;
+
+	/* accent colors */
+	--sl-color-text-accent: #00aaff;
+	--sl-color-text-invert: white;
+}
+
+:root .primary {
+	/* accent colors */
+	--sl-color-black: white;
+}
+
+:root[data-theme="light"] {
+	/* accent colors */
+	--sl-color-text-accent: #00aaff;
+}

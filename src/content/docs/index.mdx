@@ -1,0 +1,36 @@
+---
+title: Welcome to hack.place()
+template: splash
+hero:
+    tagline: We train the next generation of programmers in the Monmouth County area.
+    actions:
+        - text: Explore docs
+          link: /organization/introduction/
+          icon: right-arrow
+          variant: primary
+
+        - text: Visit our website
+          link: https://hackplace.org
+          icon: external
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+<CardGrid stagger>
+	<Card title="Transparency" icon="open-book">
+		Not only are our finances publicly available, but so is all nonsensitive
+		information regarding our organization.
+	</Card>
+	<Card title="Open source" icon="pencil">
+		All of our content, from our workshop presentations to our websites, are
+		open source. Anyone can contribute.
+	</Card>
+	<Card title="Development" icon="laptop">
+		We're always working on new projects. We developed all the tools we use
+		ourselves, including our presentation framework.
+	</Card>
+	<Card title="Community" icon="rocket">
+		We strive to craete a safe and welcoming community for all of our
+		members. We're active on Discord and other social media.
+	</Card>
+</CardGrid>
