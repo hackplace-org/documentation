@@ -97,6 +97,7 @@ This description is used in the following locations:
 - GitHub organization's OAuth apps (development and production)
 - GitHub organization
 - Discord OAuth apps (development and production)
+- Discord Community Server
 - Linktree
 - Google Business Profile
 - LinkedIn (description and overview)
